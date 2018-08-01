@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User should be able to search and verify issue content</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5cb65bf-b437-48a5-a3e4-84f8ae2103d4</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.ticket_sample</defaultValue>
+      <description></description>
+      <id>25eed5ab-e252-44f3-818e-7519e258d471</id>
+      <masked>false</masked>
+      <name>issue_summary</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bug'</defaultValue>
+      <description></description>
+      <id>35c942fe-fdfb-42ff-9205-cecfaa2beb2a</id>
+      <masked>false</masked>
+      <name>issue_type</name>
+   </variable>
+</TestCaseEntity>
