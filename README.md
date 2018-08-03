@@ -1,4 +1,4 @@
-# Katalon Studio Samples: Jira UI Tests
+# Katalon Studio Samples: Katalon Regression Tests
 Katalon Studio is a free and easy-to-use automated functional and regression testing platform. It provides users the ability to implement full automated testing solutions for their application projects with minimal engineering and programming skill requirements.
 ______
 The **katalon-regression-tests** is used to perform stress test on Katalon Studio by having 10k test cases. It also has test suite having a few thousand of test cases. The result of executing these test suite will have an overview of KS performance, resource usages, and so on.
