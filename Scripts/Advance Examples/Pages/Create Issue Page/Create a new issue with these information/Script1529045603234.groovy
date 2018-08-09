@@ -46,6 +46,8 @@ String time = new Date().getTime()
 
 String fixed_summary = String.format('%s %s', summary, time)
 
+WebUI.delay(2)
+
 WebUI.waitForElementClickable(findTestObject('Test Objects/Pages/Create Issue Page/elSummary'), GlobalVariable.element_timeout)
 
 WebUI.setText(findTestObject('Test Objects/Pages/Create Issue Page/elSummary'), fixed_summary)
